@@ -33,6 +33,14 @@ int main(){
 	{
 		printf("Wednesday");
 	}
+    else if (day ==4)
+	{
+		printf("Thursday");
+	}
+	else if (day ==5)
+	{
+		printf("Friday");
+	}
 	else 
 	printf("Invalid Day");
 }
