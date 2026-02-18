@@ -1,4 +1,4 @@
-#  Task 4: Weekday Checker
+#  Task : Weekday Checker
 
 ###  Problem:
 
