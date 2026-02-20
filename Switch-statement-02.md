@@ -1,4 +1,4 @@
-## Task 2 — Simple Calculator
+## Task  — Simple Calculator
 
 Write a program that:
 
