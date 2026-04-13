@@ -46,5 +46,5 @@ int main(){
 
 ## Output
 ```
-Positive Even Number
+Positive Even Number   
 ```
